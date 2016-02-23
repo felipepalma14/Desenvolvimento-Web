@@ -1,0 +1,38 @@
+.container{
+	background-color: lightblue;
+	margin: 20px;
+	padding:10px;
+	width: 750px;
+	margin-left:300px;
+	font-family: "Arial","Lucida Sans Unicode" ;
+}
+
+h1{
+	text-align: center;
+	color: blue;
+	background-color: pink;
+	border-style: dashed;
+}
+
+nav{
+	background-color: #EEE9E9;
+	font-size: 1.2em;
+
+}
+https://github.com/felipepalma14/Desenvolvimento-Web.git
+
+.links h2{
+	text-align: center;
+	color: white;
+	border-color: gray;
+	clear: both;
+	background-color: #4682B4;
+	margin: 0px;
+}
+
+
+.links h3{
+	text-align: center;
+	color: green;
+	margin: 0px;
+}
